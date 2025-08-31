@@ -42,7 +42,7 @@ A modern, feature-rich notes application built with **React**, **Redux Toolkit**
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/notes-app.git
+   git clone https://github.com/amarnath-k98/notesapp.git
    cd notes-app
 
 2. **Install dependencies**
